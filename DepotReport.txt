@@ -1,0 +1,64 @@
+Depot Management System - Processed Parcels Report
+Customers:
+Customer ID: X064, Name: Ann Jones
+Customer ID: X682, Name: Blair Foster
+Customer ID: X780, Name: Bob Dawson
+Customer ID: X782, Name: Chris Smith
+Customer ID: X316, Name: Dave Jackson
+Customer ID: X278, Name: David Hunter
+Customer ID: X720, Name: Donald Murray
+Customer ID: X475, Name: Fiona Thoms
+Customer ID: X386, Name: Gillian Hamilton
+Customer ID: X857, Name: Harry Johnston
+Customer ID: X309, Name: Helen Webster
+Customer ID: X733, Name: Jack Houston
+Customer ID: X285, Name: Jo Hill
+Customer ID: X213, Name: Joe Woods
+Customer ID: X009, Name: John Brown
+Customer ID: X904, Name: Judy Hilman
+Customer ID: X552, Name: Keith Burns
+Customer ID: X121, Name: Lily Watson
+Customer ID: X025, Name: Lucy Grey
+Customer ID: X198, Name: Mary Brown
+Customer ID: X521, Name: Pamela Field
+Customer ID: X036, Name: Peter White
+Customer ID: X606, Name: Robert Murray
+Customer ID: X214, Name: Susan Turner
+Customer ID: X507, Name: Thomas Young
+Customer ID: X020, Name: Tim Smith
+Customer ID: X086, Name: Tony Lawson
+Customer ID: X746, Name: Ursula Milton
+Customer ID: X540, Name: Viola Nicholson
+
+Parcels:
+Parcel ID: X746, Weight: 4.0, Dimensions: 4, Days in Depot: 9, Status: Pending
+Parcel ID: X309, Weight: 1.0, Dimensions: 2, Days in Depot: 8, Status: Pending
+Parcel ID: X507, Weight: 5.0, Dimensions: 3, Days in Depot: 9, Status: Pending
+Parcel ID: X606, Weight: 8.0, Dimensions: 8, Days in Depot: 4, Status: Pending
+Parcel ID: X904, Weight: 4.0, Dimensions: 1, Days in Depot: 4, Status: Pending
+Parcel ID: X198, Weight: 9.0, Dimensions: 4, Days in Depot: 8, Status: Pending
+Parcel ID: X475, Weight: 4.0, Dimensions: 3, Days in Depot: 8, Status: Pending
+Parcel ID: X552, Weight: 4.0, Dimensions: 5, Days in Depot: 7, Status: Pending
+Parcel ID: X036, Weight: 8.0, Dimensions: 4, Days in Depot: 6, Status: Pending
+Parcel ID: X278, Weight: 5.0, Dimensions: 3, Days in Depot: 1, Status: Pending
+Parcel ID: X213, Weight: 4.0, Dimensions: 8, Days in Depot: 5, Status: Pending
+Parcel ID: X214, Weight: 1.0, Dimensions: 8, Days in Depot: 1, Status: Pending
+Parcel ID: X733, Weight: 6.0, Dimensions: 6, Days in Depot: 5, Status: Pending
+Parcel ID: X919, Weight: 5.0, Dimensions: 8, Days in Depot: 7, Status: Pending
+Parcel ID: X316, Weight: 9.0, Dimensions: 5, Days in Depot: 4, Status: Pending
+Parcel ID: X857, Weight: 2.0, Dimensions: 6, Days in Depot: 6, Status: Pending
+Parcel ID: X121, Weight: 3.0, Dimensions: 7, Days in Depot: 2, Status: Pending
+Parcel ID: X682, Weight: 3.0, Dimensions: 6, Days in Depot: 4, Status: Pending
+Parcel ID: X386, Weight: 9.0, Dimensions: 1, Days in Depot: 6, Status: Pending
+Parcel ID: X540, Weight: 9.0, Dimensions: 2, Days in Depot: 5, Status: Pending
+Parcel ID: X782, Weight: 5.0, Dimensions: 3, Days in Depot: 2, Status: Pending
+Parcel ID: X025, Weight: 7.0, Dimensions: 1, Days in Depot: 4, Status: Pending
+Parcel ID: X521, Weight: 6.0, Dimensions: 4, Days in Depot: 4, Status: Pending
+Parcel ID: X720, Weight: 4.0, Dimensions: 2, Days in Depot: 1, Status: Pending
+Parcel ID: X020, Weight: 1.0, Dimensions: 1, Days in Depot: 6, Status: Pending
+Parcel ID: X064, Weight: 8.0, Dimensions: 4, Days in Depot: 1, Status: Pending
+Parcel ID: X086, Weight: 7.0, Dimensions: 4, Days in Depot: 1, Status: Pending
+Parcel ID: X285, Weight: 1.0, Dimensions: 4, Days in Depot: 3, Status: Pending
+Parcel ID: X780, Weight: 4.0, Dimensions: 1, Days in Depot: 2, Status: Pending
+
+Activity Logs:
